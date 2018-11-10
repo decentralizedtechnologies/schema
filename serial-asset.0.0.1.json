@@ -1,0 +1,10 @@
+{
+    "schema": "https://blockchainassetregistry.com/schema/serial-asset.json",
+    "version": "0.0.1",
+    "data": {
+        "description": "string",
+        "images": [
+            "string"
+        ]
+    }
+}
